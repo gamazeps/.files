@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/felix/FELIX_ROSE/ledzep/ble/TxIMU_MPU9150_DMP'
+let g:netrw_dirhist_2='/home/felix/FELIX_ROSE/ledzep/trueproject/ChibiOS-RT/os/hal/platforms/STM32/TIMv1'
+let g:netrw_dirhist_3='/home/felix/robotique/STpp/plat-inc'
+let g:netrw_dirhist_4='/home/felix/.vim/bundle/vim-sensible/plugin'
